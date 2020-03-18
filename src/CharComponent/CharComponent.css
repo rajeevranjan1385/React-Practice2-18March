@@ -1,0 +1,7 @@
+.InlineText{
+    display: inline-block;
+    border: 1px solid yellowgreen;
+    padding: 16px;
+    margin: 16px;
+    text-align: center;
+}
